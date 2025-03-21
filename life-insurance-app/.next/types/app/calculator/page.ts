@@ -1,4 +1,4 @@
-// File: /home/ubuntu/LifeInsuranceThroughSuper/life-insurance-app/app/calculator/page.tsx
+// File: C:\Users\rober\OneDrive\Documents\GitHub\lifeinsurancethroughsuper\life-insurance-app\app\calculator\page.tsx
 import * as entry from '../../../../app/calculator/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
